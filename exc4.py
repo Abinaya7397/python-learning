@@ -1,0 +1,13 @@
+#online shoping
+shop_name=input("enter shop name : ")
+product=input("enter your product : ")
+price=int(input("enter the price : "))
+size=int(input("enter size : "))
+color=input("enter your fav color : ")
+customer_name=input("enter the cus name " )
+customer_id=int(input("enter cusid : "))
+location=input("enter the location : ")
+street=input("enter the street : ")
+mode=input("enter the mode : ")
+payment=int(input("enter payment : "))
+print(f" enter shop name {shop_name} and enter product name {product} and enter the price {price} and enter size {size} and enter your fav color {color} and enter cus name {customer_name} and enter cusid {customer_id} and enter location {location} and enter the  street {street} and enter mode {mode} and enter the payment {payment}")
